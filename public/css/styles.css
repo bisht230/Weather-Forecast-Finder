@@ -8,7 +8,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh; 
-    background-image: linear-gradient(-225deg, #7085B6 0%, #87A7D9 50%, #DEF3F8 100%);
+    background-image: linear-gradient(-225deg, #7085B6 0%, #87A7D9 100%, #DEF3F8 60%);
 }
 .title{
     color:black;
@@ -43,9 +43,10 @@ body {
 }
 .help-content{
     margin: auto;
-    margin-top: 2dwrem;
+    margin-top: 2rem;
     width:65%;
     padding: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 footer{
